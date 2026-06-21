@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.env
+output/
+
+*.pyc
+*.pyo
+*.pyd
+
+AI Researcher.pdf
+tectonic.exe
